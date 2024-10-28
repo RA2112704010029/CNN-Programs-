@@ -13,4 +13,6 @@ These include topics such as :
 7. AlexNext
 8. VGG16
 9. Drop Out
+10. ImageNet
+11. Image Processing 
 and so on. 
